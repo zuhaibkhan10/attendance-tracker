@@ -32,7 +32,7 @@ You need Python 3.9 or newer.
 
 ```bash
 # 1. Download the project
-git clone https://github.com/<your-username>/attendance-tracker.git
+git clone https://github.com/zuhaibkhan10/attendance-tracker.git
 cd attendance-tracker
 
 # 2. Create and activate a virtual environment
