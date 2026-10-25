@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Database (contains real student data, so it must never be pushed)
+*.db
+*.sqlite3
+
+# Secrets
+.env
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
